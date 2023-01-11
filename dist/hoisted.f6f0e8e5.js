@@ -1,0 +1,1 @@
+import"./chunks/company-logo.astro_astro_type_script_index_0_lang.cfdce30e.js";const l=document.querySelectorAll(".collapsible-button"),c="-collapsible-visible";l.forEach(s=>{s.addEventListener("click",()=>{s.classList.contains(c)?s.classList.remove(c):s.classList.add(c)})});
